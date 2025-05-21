@@ -79,3 +79,8 @@ This GitHub profile is a living arsenal. Each repo reflects:
 > You want someone who *writes the scripts*, *tests the payload*, and *breaks the system* before anyone else?  
 > Welcome to ZedSec.”
 
+## 📜 Certifications
+
+- 🐞 [Practical Bug Bounty – Certificate of Completion](./certifications/ZedSec_BugBounty_Certificate.pdf)  
+  _Hands-on vulnerability research and exploit validation. Focused on real-world bug bounty workflows and ethical reporting._
+
